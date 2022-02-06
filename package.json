@@ -1,0 +1,19 @@
+{
+  "name": "array-manifold",
+  "version": "0.0.1",
+  "description": "JavaScript Library For Managing Array",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qwyzex/array-manifold.git"
+  },
+  "author": "qwyzex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qwyzex/array-manifold/issues"
+  },
+  "homepage": "https://github.com/qwyzex/array-manifold#readme"
+}
